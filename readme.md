@@ -82,7 +82,7 @@ For major changes, please open an issue first to discuss what you’d like to ch
 ---
 
 ## 📬 Contact
-👤 **Your Name**  
+👤 **Kakara Sasikiran**  
 🔗 [LinkedIn](https://www.linkedin.com/in/sasikirankakara/) | [GitHub](https://github.com/SasikiranK16/FullStackSpringBootLearnings/tree/master)  
 
 ---
