@@ -1,7 +1,6 @@
 package com.example.demo.automappers;
 
 import org.mapstruct.Mapper;
-
 import org.mapstruct.factory.Mappers;
 
 import com.example.demo.dtos.AccountDTO;
@@ -19,6 +18,6 @@ public interface AutoUserMapper {
 	UserDTO mapToEntity(Users users);
 	Account mapToEntity(AccountDTO accountDTO);
 	AccountDTO mapToDTO(Account account);
-	Todo mapToTodoDTO(TodoDTO todoDTO);
 	TodoDTO mapToEntity(Todo todo);
-}
+	Todo mapToDTO(TodoDTO todoDTO);
+	}
